@@ -10,3 +10,4 @@ lwd-api.html
 __debug_bin
 .vscode
 frontend/unittestcache/
+.idea
